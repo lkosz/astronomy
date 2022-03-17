@@ -28,6 +28,7 @@ Max 1.05<sup>m</sup>
 Can be seen clearly.
 
 [https://www.youtube.com/watch?v=FvOjC0Y2S94](https://www.youtube.com/watch?v=FvOjC0Y2S94)
+
 [![YT vid pic](https://img.youtube.com/vi/FvOjC0Y2S94/0.jpg)](https://www.youtube.com/watch?v=FvOjC0Y2S94)
 
 #### Alphecca
@@ -36,6 +37,7 @@ Max 2.2<sup>m</sup>
 Hands down can be seen.
 
 [https://www.youtube.com/watch?v=f45soKC15Fk](https://www.youtube.com/watch?v=f45soKC15Fk)
+
 [![YT vid pic](https://img.youtube.com/vi/f45soKC15Fk/0.jpg)](https://www.youtube.com/watch?v=f45soKC15Fk)
 
 #### Kornephoros
@@ -44,6 +46,7 @@ Max 2.7<sup>m</sup>
 Also can be seen clearly.
 
 [https://www.youtube.com/watch?v=WVGfy0PbjGg](https://www.youtube.com/watch?v=WVGfy0PbjGg)
+
 [![YT vid pic](https://img.youtube.com/vi/WVGfy0PbjGg/0.jpg)](https://www.youtube.com/watch?v=WVGfy0PbjGg)
 
 #### Kappa Ophiuchi
@@ -52,6 +55,7 @@ Max 3.19<sup>m</sup>
 Can be seen but it's hard to differentiate from noise.
 
 [https://www.youtube.com/watch?v=vwwhWxhhzVk](https://www.youtube.com/watch?v=vwwhWxhhzVk)
+
 [![YT vid pic](https://img.youtube.com/vi/vwwhWxhhzVk/0.jpg)](https://www.youtube.com/watch?v=vwwhWxhhzVk)
 
 ----
