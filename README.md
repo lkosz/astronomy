@@ -17,3 +17,11 @@ Catch comet and make animation
 it is said that 4 mag stars and brighter can be seen during the day - I've tried to check it
 
 [daylight_star_magnitude/README.md](daylight_star_magnitude/README.md)
+
+----
+
+### Project: Make photo of Pluto using DIY GOTO
+
+simply - make photo of Pluto, which is not easy to find, but much easier with DIY GOTO and DIY app which get frame from camera and make quick platesolve
+
+[pluto_2021/README.md](pluto_2021/README.md)
